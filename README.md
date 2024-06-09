@@ -14,7 +14,10 @@ I didn't intend to infringe on copyright, and I'm not teaching how to do it eith
 - https://www.skooldio.com/courses/power-bi-essentials
 - https://www.skooldio.com/courses/hands-on-power-bi
 
+### All table (Model view) 
+![CustmerOveriew](MasterPowerBI/ModelView.png)
 
+# Dashborads:
 ### Sales Overview dashboard
 ![CustmerOveriew](MasterPowerBI/SalesOverview.png)
 
