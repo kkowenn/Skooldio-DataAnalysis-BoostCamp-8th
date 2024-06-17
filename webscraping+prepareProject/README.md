@@ -24,10 +24,8 @@ Web scraping in Thailand is legally ambiguous, so exercise caution and responsib
    - Export the scraped data for further processing.
 
 ### Data Storage
-All scraped data links are stored in the following repository:
+All scraped data links are stored:
 #### All Scrape Links
-
-![Customer Overview](webscraping+prepareProject/pic/allScrapProject.png)
 
 ## Data Cleaning
 
@@ -50,18 +48,5 @@ To facilitate easier analysis, prepare and design relational database tables. Th
 
 ![Database](webscraping+prepareProject/pic/DatBaseRationalDesign.png)
 
-## Conclusion
-
-This project outlines the steps for web scraping, data cleaning, and preparing data for analysis. The careful execution of each step ensures high-quality, reliable data, which is crucial for accurate analysis.
-
-## Professional Tips
-- Always verify the legality of web scraping activities in your jurisdiction.
-- Ensure ethical scraping practices by respecting website terms of service.
-- Validate and clean your data thoroughly to maintain the integrity of your analysis.
-
-By following these guidelines, you can achieve efficient and effective data scraping and preparation for insightful analysis.
-
----
-This readme has been structured to look more professional and provide clear guidance on the web scraping and data preparation process, including the use of NLP techniques for linguistic analysis.
 
 
