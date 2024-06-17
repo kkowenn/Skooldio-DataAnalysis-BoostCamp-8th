@@ -25,7 +25,8 @@ Web scraping in Thailand is legally ambiguous, so exercise caution and responsib
 
 ### Data Storage
 All scraped data links are stored in the following repository:
-#### All Scrape Links
+### All Scrape Links
+
 ![Customer Overview](webscraping+prepareProject/pic/allScrapProject.png)
 
 ## Data Cleaning
@@ -37,6 +38,7 @@ After scraping, clean the data to ensure it is ready for analysis. The cleaning 
 
 ### Cleaned Data Result
 The cleaned data is stored and visualized here:
+
 ![Customer Overview](webscraping+prepareProject/pic/cleanResult.png)
 
 ## Database Design
@@ -44,6 +46,7 @@ The cleaned data is stored and visualized here:
 To facilitate easier analysis, prepare and design relational database tables. This structured approach helps in organizing and retrieving data efficiently.
 
 ### Relational Database Model Design
+
 ![Database](webscraping+prepareProject/pic/DatBaseRationalDesign.png)
 
 ## Conclusion
