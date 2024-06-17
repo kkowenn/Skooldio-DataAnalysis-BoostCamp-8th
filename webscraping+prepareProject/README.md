@@ -1,7 +1,8 @@
 # Web Scraping and Data Preparation for Analysis Project
 
 ## Introduction
-Web scraping in Thailand is legally ambiguous, so exercise caution and responsibility while conducting this project. Each team member is assigned a specific website to scrape individually. Follow the detailed steps below to ensure consistency and accuracy in data collection.
+Web scraping in Thailand is legally ambiguous, so exercise caution and responsibility while conducting this project. 
+In this project, our team member is assigned a specific website to scrape individually. Follow the detailed steps below:
 
 ## Steps for Web Scraping
 
@@ -24,8 +25,9 @@ Web scraping in Thailand is legally ambiguous, so exercise caution and responsib
    - Export the scraped data for further processing.
 
 ### Data Storage
-All scraped data links are stored:
+All scraped data links are stored in here:
 #### All Scrape Links
+![Customer Overview](webscraping+prepareProject/pic/allScrapProject.png)
 
 ## Data Cleaning
 
@@ -35,7 +37,8 @@ After scraping, clean the data to ensure it is ready for analysis. The cleaning 
 - Dropping duplicate titles.
 
 ### Cleaned Data Result
-The cleaned data is stored and visualized here:
+The cleaned data's resul there:
+![Customer Overview](webscraping+prepareProject/pic/cleanResult.png)
 
 ## Data Preparation and Analysis
 
@@ -43,7 +46,7 @@ To enhance the dataset for analysis, additional processing steps are performed, 
 
 ### Relational Database Model Design
 To facilitate easier analysis, prepare and design relational database tables. This structured approach helps in organizing and retrieving data efficiently.
-
+![Database](webscraping+prepareProject/pic/DatBaseRationalDesign.png)
 
 
 
