@@ -2,10 +2,15 @@
 
 Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and accomplishments in the field of data analysis. Below is a summary of the key certifications I have obtained, demonstrating my commitment to continuous learning and professional development in data analysis.
 
+## Data Analysis BoostCamp(not finish yet) instructor: 
+![image](MasterPowerBI/teacher.png)
+
 ### Certifications:
 
-![CustmerOveriew](MasterPowerBI/yo.png)
+![image](MasterPowerBI/yo.png)
 
+
+### Certifications
 1. **Dashboard Design Principles**
    - **Issued By:** Dr. Wiroj Jirapattanakul
    - **Date:** May 21, 2024
