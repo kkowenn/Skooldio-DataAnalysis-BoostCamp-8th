@@ -15,13 +15,13 @@ Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and a
    - **Issued By:** Rapheepan Laochamroonvorapongse
    - **Date:** May 24, 2024
    - **Description:** This course provided comprehensive training in Power BI, focusing on data visualization, dashboard creation, and data modeling. It equipped me with the skills to transform raw data into actionable insights using Power BI's powerful features.
-   - **HandOnWorkshop:** https://github.com/kkowenn/MasterPowerBI
 
 3. **Hands-On Power BI**
    - **Issued By:** Dr. Wiroj Jirapattanakul
    - **Date:** June 3, 2024
    - **Description:** This practical course allowed me to apply my Power BI knowledge in real-world scenarios. It involved creating dynamic reports and dashboards, enabling me to enhance my data visualization and analytical capabilities.
-
+   - **HandOnWorkshop:** https://github.com/kkowenn/MasterPowerBI
+     
 4. **SQL for Data Analytics**
    - **Issued By:** Dr. Wiroj Jirapattanakul
    - **Date:** June 20, 2024
