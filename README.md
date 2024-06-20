@@ -1,31 +1,39 @@
-# DataAnalyticsPortfolio
+## Data Analysis Portfolio
 
-I didn't intend to infringe on copyright, and I'm not teaching how to do it either. But I made a portfolio for this subject. If you're interested or want to learn more, I recommend taking the course at Skooldio. It's a lot of fun! but in Thai language
+Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and accomplishments in the field of data analysis. Below is a summary of the key certifications I have obtained, demonstrating my commitment to continuous learning and professional development in data analysis.
 
+### Certifications:
 
+![CustmerOveriew](MasterPowerBI/yo.png)
 
+1. **Dashboard Design Principles**
+   - **Issued By:** Dr. Wiroj Jirapattanakul
+   - **Date:** May 21, 2024
+   - **Description:** This certification covers the fundamental principles of designing effective and insightful dashboards. It emphasizes the importance of visual storytelling and user-friendly interfaces to convey complex data clearly and effectively.
 
-ไม่ได้ตั้งจะละเมิดลิขสิทธิ์ และไม่สอนทำด้วย แต่ทำพอร์ต
-สนใจหรืออยากรู้วิชา แนะนำไปเรียนที่เลยจร้าาา สนุกมาก 
+2. **Power BI Essentials**
+   - **Issued By:** Rapheepan Laochamroonvorapongse
+   - **Date:** May 24, 2024
+   - **Description:** This course provided comprehensive training in Power BI, focusing on data visualization, dashboard creation, and data modeling. It equipped me with the skills to transform raw data into actionable insights using Power BI's powerful features.
+   - **HandOnWorkshop:** https://github.com/kkowenn/MasterPowerBI
 
+3. **Hands-On Power BI**
+   - **Issued By:** Dr. Wiroj Jirapattanakul
+   - **Date:** June 3, 2024
+   - **Description:** This practical course allowed me to apply my Power BI knowledge in real-world scenarios. It involved creating dynamic reports and dashboards, enabling me to enhance my data visualization and analytical capabilities.
 
-# acknowledgement by :
+4. **SQL for Data Analytics**
+   - **Issued By:** Dr. Wiroj Jirapattanakul
+   - **Date:** June 20, 2024
+   - **Description:** This certification focused on the use of SQL for data extraction, manipulation, and analysis. It covered advanced SQL queries, database management, and integration of SQL with other data analysis tools, preparing me to handle large datasets efficiently.
 
-- https://www.skooldio.com/courses/power-bi-essentials
-- https://www.skooldio.com/courses/hands-on-power-bi
+5. **Exploratory Data Analysis with Excel**
+   - **Issued By:** Dr. Wiroj Jirapattanakul
+   - **Date:** May 3, 2024
+   - **Description:** This course taught me the techniques of exploratory data analysis (EDA) using Excel. It covered data cleaning, visualization, and statistical analysis, allowing me to uncover patterns and insights in data using Excel's robust analytical tools.
 
-### All table (Model view) 
-![CustmerOveriew](MasterPowerBI/ModelView.png)
+### About Me
 
-# Dashborads:
-### Sales Overview dashboard
-![CustmerOveriew](MasterPowerBI/SalesOverview.png)
+I am a passionate data analyst with a strong background in data visualization, SQL, and exploratory data analysis. My certifications reflect my dedication to mastering the tools and techniques necessary to transform data into meaningful insights. Through practical experience and continuous learning, I strive to deliver high-quality data analysis that drives informed decision-making.
 
-### Store Overview dashboard
-![CustmerOveriew](MasterPowerBI/storeOverview.png)
-
-### Product Overview dashboard
-![CustmerOveriew](MasterPowerBI/ProductOverview.png)
-
-### Customer Overview dashboard
-![CustmerOveriew](MasterPowerBI/CustomerOverview.png)
+Feel free to explore my portfolio to see examples of my work and how I apply my skills to solve real-world problems.
