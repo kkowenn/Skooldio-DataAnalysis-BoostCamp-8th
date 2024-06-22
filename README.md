@@ -3,7 +3,7 @@ Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and a
 
 ### Skooldio Data Analysis BoostCamp (not finish yet):
 
-รอรูป
+![image](MasterPowerBI/DSC09678.jpg)
 
 #### Data Analysis BoostCamp 8th Certifications:
 
