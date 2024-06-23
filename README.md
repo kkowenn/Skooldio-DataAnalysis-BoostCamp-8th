@@ -49,4 +49,5 @@ I am a passionate data analyst with a strong background in data visualization, S
 
 Feel free to explore my portfolio to see examples of my work and how I apply my skills to solve real-world problems.
 
-https://github.com/kkowenn/webScrapeAndDATAprep
+https://github.com/kkowenn/FastworkAnalysisProject
+
