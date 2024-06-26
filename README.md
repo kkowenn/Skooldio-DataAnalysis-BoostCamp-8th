@@ -8,9 +8,6 @@ Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and a
 #### instructor: 
 ![image](MasterPowerBI/teacher.png)
 
-## Data Analysis BoostCamp 8th Certifications:
- waiting 
-
 ### Certifications:
 
 ![image](MasterPowerBI/yo.png)
