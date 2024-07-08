@@ -65,5 +65,3 @@ This certification covers the fundamental of this tools below:
 ## About Me
 I am a passionate data analyst with a strong background in data visualization, SQL, and exploratory data analysis. My certifications reflect that I have skills in the latest tools and techniques, such as Fivetran, Airbyte, Terraform, dbt, Snowflake, and Databricks. I am learning about Analysis Engineer tools & Concepts, automating data pipelines, managing systems to eliminate errors, ensuring data quality, and exploring modern concepts like Data Lakehouse and Data Mesh. 
 This combination of skills enables me to handle complex data projects from start to finish, ensuring accuracy, efficiency, and actionable insights. 
-
-Feel free to explore my portfolio to see examples of my work and how I apply my skills to solve real-world problems.
