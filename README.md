@@ -49,7 +49,7 @@ https://github.com/kkowenn/FastworkAnalysisProject
 
 ### Certifications
 1. **Tools For Analysis engineer**
-   - **Issued By:** Perth Woratana
+   - **Issued By:** Perth Woratana Ngarmtrakulchol
    - **Date:** Jul 8, 2024
 ### **Description:** 
 This certification covers the fundamental of this tools below:
