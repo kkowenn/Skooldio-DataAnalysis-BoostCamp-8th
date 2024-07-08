@@ -1,5 +1,5 @@
-# Data Analysis Portfolio
-Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and accomplishments in the field of data analysis. Below is a summary of the key certifications I have obtained, demonstrating my commitment to continuous learning and professional development in data analysis.
+# Data Analysis & Analysis Engineer Portfolio
+Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and accomplishments in the field of data analysis. Below is a summary of the key certifications I have obtained, demonstrating my commitment to continuous learning and professional development in data analysis and analysis engineer
 
 # Skooldio Data Analysis BoostCamp 8th (not finish yet):
 
@@ -40,11 +40,30 @@ Welcome to my Data Analysis Portfolio! I am thrilled to showcase my skills and a
    - **Date:** May 3, 2024
    - **Description:** This course taught me the techniques of exploratory data analysis (EDA) using Excel. It covered data cleaning, visualization, and statistical analysis, allowing me to uncover patterns and insights in data using Excel's robust analytical tools.
 
-### About Me
-
-I am a passionate data analyst with a strong background in data visualization, SQL, and exploratory data analysis. My certifications reflect my dedication to mastering the tools and techniques necessary to transform data into meaningful insights. Through practical experience and continuous learning, I strive to deliver high-quality data analysis that drives informed decision-making.
-
-Feel free to explore my portfolio to see examples of my work and how I apply my skills to solve real-world problems.
-
+**Final Work from this boostcamp**
 https://github.com/kkowenn/FastworkAnalysisProject
 
+# DataTH Analysis Engineer boostcamp:
+
+![image](AnalysisEngineer.png)
+
+### Certifications
+1. **Tools For Analysis engineer**
+   - **Issued By:** Perth Woratana
+   - **Date:** Jul 8, 2024
+### **Description:** 
+This certification covers the fundamental of this tools below:
+   - Automated data extraction without writing code for Data Pipelines using **Fivetran and Airbyte**.
+   - Managing entire data systems through code and running them automatically to eliminate human errors (Fat Finger Errors) using **Terraform**.
+   - Performing Data Transformation with SQL in an organized manner, ensuring data quality tests with **dbt**.
+   - Storing data in a Data Warehouse that seamlessly connects with a Data Lake, using **Snowflake and Databricks**.
+   - Using **Modern Data Stack tools** learned in the course to work with data from start to finish.
+   - Exploring new and interesting data concepts such as **Data Lakehouse, Data Mesh, Data Contracts, etc**.
+   - And other interesting data-related topics, with this course focusing on **globally recognized tools and concepts in the data field.**
+
+
+## About Me
+I am a passionate data analyst with a strong background in data visualization, SQL, and exploratory data analysis. My certifications reflect that I have skills in the latest tools and techniques, such as Fivetran, Airbyte, Terraform, dbt, Snowflake, and Databricks. I am learning about Analysis Engineer tools & Concepts, automating data pipelines, managing systems to eliminate errors, ensuring data quality, and exploring modern concepts like Data Lakehouse and Data Mesh. 
+This combination of skills enables me to handle complex data projects from start to finish, ensuring accuracy, efficiency, and actionable insights. 
+
+Feel free to explore my portfolio to see examples of my work and how I apply my skills to solve real-world problems.
