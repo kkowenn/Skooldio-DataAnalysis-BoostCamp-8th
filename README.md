@@ -3,14 +3,14 @@ Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and
 
 # Skooldio Data Analysis BoostCamp 8th (not finish yet):
 
-![image](MasterPowerBI/DSC09678.jpg)
+![image](DSC09678.jpg)
 
 #### instructor: 
-![image](MasterPowerBI/teacher.png)
+![image](all_teacher.png)
 
 ### Certifications:
 
-![image](MasterPowerBI/yo.png)
+![image](allskoodiecert.png)
 
 
 ### Certifications
