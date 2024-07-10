@@ -33,7 +33,7 @@ Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and
 4. **SQL for Data Analytics**
    - **Issued By:** Dr. Wiroj Jirapattanakul
    - **Date:** June 20, 2024
-   - **Description:** This certification focused on the use of SQL for data extraction, manipulation, and analysis. It covered advanced SQL queries, database management, and integration of SQL with other data analysis tools, preparing me to handle large datasets efficiently.
+   - **Description:** This certification focused on the use of SQL for data extraction, manipulation, and analysis. It covered concept SQL queries, preparing me to handle large datasets efficiently.
 
 5. **Exploratory Data Analysis with Excel**
    - **Issued By:** Dr. Wiroj Jirapattanakul
