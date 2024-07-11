@@ -22,7 +22,7 @@ Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and
 2. **Power BI Essentials**
    - **Issued By:** Rapheepan Laochamroonvorapongse
    - **Date:** May 24, 2024
-   - **Description:** This course provided comprehensive training in Power BI, focusing on data visualization, dashboard creation, and data modeling. It equipped me with the skills to transform raw data into actionable insights using Power BI's powerful features.
+   - **Description:** This course provided comprehensive training in Power BI, focusing on data visualization, dashboard creation. It equipped me with the skills to transform raw data into actionable insights using Power BI's powerful features.
 
 3. **Hands-On Power BI**
    - **Issued By:** Dr. Wiroj Jirapattanakul
