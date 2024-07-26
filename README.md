@@ -29,7 +29,7 @@ Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and
    - **Date:** June 3, 2024
    - **Description:** This practical course allowed me to apply my Power BI knowledge in real-world scenarios. It involved creating dynamic reports and dashboards, enabling me to enhance my data visualization and analytical capabilities.
    - **HandOnWorkshop:** https://github.com/kkowenn/MasterPowerBI
-     
+   -  **Dashboard in webapp version:** https://github.com/kkowenn/streamlit_dashboard_webapp
 4. **SQL for Data Analytics**
    - **Issued By:** Dr. Wiroj Jirapattanakul
    - **Date:** June 20, 2024
@@ -43,11 +43,7 @@ Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and
 **Final Work from this boostcamp**
 https://github.com/kkowenn/FastworkAnalysisProject
 
-dashboard in webapp version:
 
-https://github.com/kkowenn/streamlit_dashboard_webapp
-
-https://github.com/kkowenn/DataBaseProjects
 # DataTH Analysis Engineer boostcamp:
 
 ![image](AnalysisEngineer.png)
