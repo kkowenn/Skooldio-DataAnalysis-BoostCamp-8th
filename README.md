@@ -1,9 +1,9 @@
 # Data Analysis & Analysis Engineer Portfolio
-Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and accomplishments in the field of data analysis. Below is a summary of the key certifications I have obtained, demonstrating my commitment to continuous learning and professional development in data analysis and analysis engineer
+Welcome to my Data Analysis & Analysis Engineer Portfolio! this is my skills and accomplishments in the field of data analysis. Below is a summary of the key certifications I have obtained, demonstrating my commitment to continuous learning and professional development in data analysis
 
 # Skooldio Data Analysis BoostCamp 8th (not finish yet):
 
-![image](DSC09678.jpg)
+![image](DSC09678.jpg
 
 #### instructor: 
 ![image](all_teacher.png)
