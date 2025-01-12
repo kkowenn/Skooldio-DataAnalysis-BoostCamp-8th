@@ -37,5 +37,5 @@
    - **Date:** May 3, 2024
    - **Description:** This course taught me the techniques of exploratory data analysis (EDA) using Excel. It covered data cleaning, visualization, and statistical analysis, allowing me to uncover patterns and insights in data using Excel's robust analytical tools.
 
-**Final Work from this boostcamp**
+**Final Work from this bootcamp**
 https://github.com/kkowenn/FastworkAnalysisProject
